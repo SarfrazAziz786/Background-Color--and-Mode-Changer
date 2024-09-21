@@ -1,0 +1,62 @@
+h1{
+    
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    display:flexbox;
+    text-align: center;
+    
+}
+div{
+    display: flex;    
+    width: 100%;
+    padding:10px ;
+    background-color:aqua;
+    
+}
+
+
+
+
+.button{
+    
+    border-style: outset;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 4%;
+    text-align: center;
+     border-color: black;
+     font-weight: 800;
+     height: 80%;
+     width: 80%;
+    
+}
+
+
+#grey{
+    background-color: grey;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+}
+
+#orange{
+    background-color: orange;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+p{
+    text-decoration-line:underline ;
+    
+}
+form{
+    font-size: larger;
+}
